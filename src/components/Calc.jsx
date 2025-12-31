@@ -28,7 +28,7 @@ export default function TimeDivider() {
   };
 
   return (
-    <div className="mx-auto my-auto flex flex-col content-center items-start w-1/3">
+    <div className="mx-auto my-auto flex flex-col content-center items-start w-2/3">
       <p>From date:</p>
       <input
         type="datetime-local"
